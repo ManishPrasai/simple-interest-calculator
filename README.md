@@ -13,4 +13,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 3. Enter the required values when prompted
 
 ## Author
-Your Name
+Manish Prasai
